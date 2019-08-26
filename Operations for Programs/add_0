@@ -1,0 +1,13 @@
+INP
+STA X
+INP
+here:
+ADD X
+STA X
+INP
+SZA
+BUN here
+LDA X
+OUT
+HLT
+X: .data 2 0

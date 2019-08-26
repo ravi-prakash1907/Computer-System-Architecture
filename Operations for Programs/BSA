@@ -1,0 +1,21 @@
+INP
+STA X
+INP
+BSA A
+BUN B
+A:
+INP
+AND X
+B:
+OUT
+HLT
+X: .data 2 0
+
+
+
+
+
+
+
+
+
