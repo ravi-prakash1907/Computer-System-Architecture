@@ -1,8 +1,11 @@
 # Computer-System-Architecture
-A B.Sc. (Hons) Computer Science syllabased based programs and required tools' collection.
+A B.Sc. (Hons) Computer Science syllabus based programs and required tools' collection.  
+This directory Holds the paracticals and information as per the Computer System Architecture (CSA) as in the B.Sc. (Hons.) Computer Science.  
+  
+## Practical List  
+![P1](./Practical%20List/p1.png)
+![P2](./Practical%20List/p2.png)
 
-
-This directory Holds the paracticals and information as per the Computer System Architecture (CSA) as in the B.Sc. (H) Computer Science
 
 ## The Header:
   { **[OP-Code] [---ADDR---]** }
