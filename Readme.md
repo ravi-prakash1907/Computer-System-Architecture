@@ -1,5 +1,7 @@
 # Computer-System-Architecture
 
+---  
+
 ## Index  
 [_View source code of this repository on GitGub_](https://github.com/ravi-prakash1907/Computer-System-Architecture/)  
 
@@ -11,6 +13,8 @@
 > 3. [Download _CPUSim 3.6.9_](https://github.com/ravi-prakash1907/Computer-System-Architecture/raw/master/CPUSim3.6.9%20Downloadable.tar.gz)  
 > 4. [CPUSim Official](https://www.cs.colby.edu/djskrien/CPUSim/)  
 > 
+
+---  
 
 ## Practical List  
 ![P1](./Practical%20List/p1.png)
