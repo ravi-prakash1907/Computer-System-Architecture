@@ -1,5 +1,4 @@
 # Computer-System-Architecture
-A B.Sc. (Hons) Computer Science syllabus based programs and required tools' collection.  
 
 ## Index  
 [_View source code of this repository on GitGub_](https://github.com/ravi-prakash1907/Computer-System-Architecture/)  
@@ -13,8 +12,6 @@ A B.Sc. (Hons) Computer Science syllabus based programs and required tools' coll
 > 4. [CPUSim Official](https://www.cs.colby.edu/djskrien/CPUSim/)  
 > 
 
-This directory Holds the paracticals and information as per the Computer System Architecture (CSA) as in the B.Sc. (Hons.) Computer Science.  
-  
 ## Practical List  
 ![P1](./Practical%20List/p1.png)
 ![P2](./Practical%20List/p2.png)
