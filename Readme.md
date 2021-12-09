@@ -1,5 +1,18 @@
 # Computer-System-Architecture
 A B.Sc. (Hons) Computer Science syllabus based programs and required tools' collection.  
+
+## Index  
+[_View source code of this repository on GitGub_](https://github.com/ravi-prakash1907/Computer-System-Architecture/)  
+
+>
+> 1. [Sample Machines](https://github.com/ravi-prakash1907/Computer-System-Architecture/tree/master/Machines)  
+>   - For [Diret Instruction-Set](https://github.com/ravi-prakash1907/Computer-System-Architecture/tree/master/Machines/2061_Direct_Ravi)  
+>   - For [Indiret Instruction-Set](https://github.com/ravi-prakash1907/Computer-System-Architecture/tree/master/Machines/2061_Indirect_Ravi)  
+> 2. [Solutions to the Practicle Programs](https://github.com/ravi-prakash1907/Computer-System-Architecture/tree/master/Operations%20for%20Programs)  
+> 3. [Download _CPUSim 3.6.9_](https://github.com/ravi-prakash1907/Computer-System-Architecture/raw/master/CPUSim3.6.9%20Downloadable.tar.gz)  
+> 4. [CPUSim Official](https://www.cs.colby.edu/djskrien/CPUSim/)  
+> 
+
 This directory Holds the paracticals and information as per the Computer System Architecture (CSA) as in the B.Sc. (Hons.) Computer Science.  
   
 ## Practical List  
